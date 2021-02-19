@@ -1,0 +1,1 @@
+SELECT * FROM lfp2018;
